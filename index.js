@@ -4,5 +4,5 @@ function clickAlert() {
   }
 function addingEventListener() {
     input.addEventListener('click', clickAlert)
-}
-
+}   
+addingEventListener()
